@@ -1,4 +1,4 @@
-<h1 align="center"> Consumindo APi com utilizando --fetch-- </h1>
+<h1 align="center"> Consumindo API utilizando --fetch-- </h1>
 
 ## 🚀 Tecnologias utilizadas
 
